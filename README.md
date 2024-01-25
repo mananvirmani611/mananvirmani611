@@ -10,5 +10,5 @@ I'm Manan Virmani, a dynamic software enthusiast with a flair for crafting solut
 
 🛠️ Speaking of tools, you'll often find me immersed in the world of Node.js, MongoDB, Express.js, React.js, HTML, CSS, and Python. Whether it's creating seamless web applications or architecting robust databases, I thrive on the challenges that the tech world throws my way.
 
-LeetCode: leetcode.com/mananvirmani611
+LeetCode: leetcode.com/mananvirmani611   
 GeeksForGeeks: auth.geeksforgeeks.org/user/mananvirmani611
